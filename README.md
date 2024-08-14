@@ -7,7 +7,7 @@
 - **Responsive Design:** Smooth appearance on every device with a modern and responsive design.
 
 ## Technologies 
-- **Next.js:** React-based framework, server-side and side rendering.
+- **Next.js:** React-based framework, server-side and client-side rendering.
 - **Tailwind CSS:** Customizable and modern style frameworks.
 - **TMDB API:** Third-party API used to provide movie data.
 
